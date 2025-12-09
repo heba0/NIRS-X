@@ -1,8 +1,8 @@
 """load networks parameters"""
-from .DeepConvNet import DeepConvNet
-from .EEGNet import EEGNet
-from .NIRSformer import CNNEncoder, NIRSformer
-from .NIRSiam import NIRSiam
+from models.DeepConvNet import DeepConvNet
+from models.EEGNet import EEGNet
+from models.NIRSformer import CNNEncoder, NIRSformer
+from models.NIRSiam import NIRSiam
 
 
 def get_model(config):

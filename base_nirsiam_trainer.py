@@ -1,10 +1,13 @@
+import warnings
+
 import torch
 from torch.utils.data import DataLoader
-from utils.early_stopper import EarlyStopper
-from models.base_models import linear_classifier
-from contra_loss.contra_loss import SimSiam
+
 from base_trainer import BaseTrainer
-import warnings
+from contra_loss.contra_loss import SimSiam
+from models.base_models import linear_classifier
+from utils.early_stopper import EarlyStopper
+
 warnings.simplefilter("ignore")
 
 
@@ -37,6 +40,7 @@ class BaseNIRSiamTrainer(BaseTrainer):
                 # Transfer training data to GPU
                 aug1_tensor, aug2_tensor = data
                 aug1_tensor, aug2_tensor = aug1_tensor.to(self.device, dtype=torch.float), aug2_tensor.to(self.device, dtype=torch.float)
+#                print((self.network(aug1_tensor)).shape)
                 emb_aug1, pred1 = self.network(aug1_tensor)
                 emb_aug2, pred2 = self.network(aug2_tensor)
 

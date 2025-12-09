@@ -1,12 +1,11 @@
-from base_experiment_runner import BaseExpRunner
-
 from argparse import Namespace
 from copy import deepcopy
 
 import pandas as pd
+from base_experiment_runner import BaseExpRunner
+from base_nirsiam_trainer import BaseNIRSiamTrainer
 from data.dataset import fNIRS2MW
 from utils.hyperparameter_optimizer import contra_grid_search
-from base_nirsiam_trainer import BaseNIRSiamTrainer
 
 
 class NIRSiamExpRunner(BaseExpRunner):
@@ -31,7 +30,6 @@ class NIRSiamExpRunner(BaseExpRunner):
 
             # Load labeled target subject's train, val, test data
             subject_train_data, subject_val_data, subject_test_data = self.split_subject_specific_data(subject_id)
-
             # Optimize hyperparameter configuration on contrastive task and unlabeled group data
             best_config, best_config_test_acc = contra_grid_search(self.config_dict, pretext_data, subject_train_data, subject_val_data, subject_test_data, self.labels)
             contra_hpo_test_accs.append(best_config_test_acc)

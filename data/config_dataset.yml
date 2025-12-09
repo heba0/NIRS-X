@@ -1,13 +1,14 @@
 fNIRS2MW:
 #  put your path here, here is a sample path
-  global_path: /home/Documents/data/
+  global_path: ../../Dataset/fNIRS2MW/fNIRS2MW/
+  # global_path: /home/Documents/data/
 
   experiment_type:
 # you can choose run experiments on which dataset
     - visual
 #    - audio
 
-  slide_window_path: /experiment/processed/
+  slide_window_path: /experiment/fNIRS_data/processed/slide_window_data/
 
   slide_window_options:
 # Currently,we have three options totally (task, task + rest, task + nasa + rest)

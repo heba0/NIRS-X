@@ -1,8 +1,8 @@
-from torch import nn
-from torch import unsqueeze, squeeze
-import torch
 import math
+
+import torch
 from einops import repeat
+from torch import nn, squeeze, unsqueeze
 
 
 class CNNEncoder(nn.Module):
@@ -51,7 +51,7 @@ class PositionalEncoding(nn.Module):
     def __init__(self, d_model=128, dropout=0.1, max_len=145):
         super().__init__()
         self.dropout = nn.Dropout(p=dropout)
-        self.device = torch.device("cuda" if torch.cuda.is_available() else "")
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
         position = torch.arange(max_len).unsqueeze(1)
         div_term = torch.exp(torch.arange(0, d_model, 2) * (-math.log(10000) / d_model))
@@ -68,7 +68,7 @@ class PositionalEncoding(nn.Module):
 class NIRSformer(nn.Module):
     def __init__(self, num_classes, dropout=0.1, d_model=128, nhead=8, nlayers=6):
         super().__init__()
-        self.device = torch.device("cuda" if torch.cuda.is_available() else "")
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
         # Spatial temporal encoder
         self.cnn_encoder = CNNEncoder(num_classes, dropout)

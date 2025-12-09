@@ -2,14 +2,15 @@ import logging
 import os
 
 import torch
+import tqdm
 from torch import nn
 from torch.backends import cudnn
 from torch.utils.data import DataLoader
 from torch.utils.tensorboard import SummaryWriter
 
 from models import get_model
+from utils import accuracy, generate_filepath, save_config_file
 from utils.early_stopper import EarlyStopper
-from utils import save_config_file, accuracy, generate_filepath
 
 
 class BaseTrainer:
@@ -62,7 +63,8 @@ class BaseTrainer:
         logging.info(f"\nStart training for {self.config.n_epoch} epochs.")
 
         # Fit model to the training data
-        for epoch in range(self.config.n_epoch):
+       # for epoch in range(self.config.n_epoch):
+        for epoch in tqdm(range(self.config.n_epoch), desc="Training"):
             # Get and record the training loss, validation loss and accuracy of the current epoch
             epoch_train_loss, epoch_val_loss, epoch_val_acc = self.train_epoch(self.network, self.optimizer, epoch)
             train_loss.append(epoch_train_loss)
@@ -71,6 +73,10 @@ class BaseTrainer:
 
             # Update the tdqm progress bar with the training loss and validation loss of the current epoch
             print(f'Epoch {epoch + 1}: \tTrain Loss: {epoch_train_loss:.8f}\t\tVal Loss: {epoch_val_loss:.8f}')
+            print(f"Epoch {epoch+1}: Train Loss={epoch_train_loss:.4f} | "
+                f"Val Loss={epoch_val_loss:.4f} | "
+                f"Val Acc={epoch_val_acc:.2f}%")
+
 
             # Check if early stops
             if early_stopper.early_stop(self.network.state_dict(), epoch, epoch_val_loss):

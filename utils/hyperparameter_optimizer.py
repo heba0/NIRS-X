@@ -1,11 +1,13 @@
 '''Modify from d2l.torch'''
-import time
 import inspect
-from scipy import stats
-from base_trainer import BaseTrainer
-from base_nirsiam_trainer import BaseNIRSiamTrainer
+import time
 from argparse import Namespace
 from copy import deepcopy
+
+from scipy import stats
+
+from base_nirsiam_trainer import BaseNIRSiamTrainer
+from base_trainer import BaseTrainer
 from utils import create_grid
 
 
@@ -145,7 +147,7 @@ class GridSearchTuner(HyperParameters):
         self.test_accs = []
 
     def run(self, train_data, val_data, pretext_data=None, test_data=None, paradigm=None, labels=None, num_epochs=20,
-            num_trials=10, num_linear_epochs=None):
+            num_trials=2, num_linear_epochs=None):
 
         for i in range(num_trials):
             '''Execute HPO trials sequentially'''
@@ -161,6 +163,8 @@ class GridSearchTuner(HyperParameters):
             config.linear_epoch = num_linear_epochs
             print(f"\nTrial {i + 1}: config = {config}")
 
+            print(f"pretext_data: {pretext_data}")
+            print(f"train_data: {train_data}")
             # Check if is supervised or contrastive learning
             if pretext_data is None:
                 error = self.objective(config, train_data, val_data, paradigm)

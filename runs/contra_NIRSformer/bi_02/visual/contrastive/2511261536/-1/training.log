@@ -1,0 +1,1240 @@
+DEBUG:root:
+Epoch: 1	Training Loss: 0.7243450085322062	Training Accuracy: tensor([49.9461])
+DEBUG:root:
+Epoch: 1	Validation Loss: 0.6938146948814392	Validation Accuracy: 0.0
+DEBUG:root:
+Epoch: 2	Training Loss: 0.7118541399637858	Training Accuracy: tensor([40.7687])
+DEBUG:root:
+Epoch: 2	Validation Loss: 0.7018657128016154	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 3	Training Loss: 0.6927656133969625	Training Accuracy: tensor([49.8922])
+DEBUG:root:
+Epoch: 3	Validation Loss: 0.6846098701159159	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 4	Training Loss: 0.6841070453325907	Training Accuracy: tensor([65.9124])
+DEBUG:root:
+Epoch: 4	Validation Loss: 0.6727239688237509	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 5	Training Loss: 0.6651185949643453	Training Accuracy: tensor([98.4375])
+DEBUG:root:
+Epoch: 5	Validation Loss: 0.6321057875951132	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 6	Training Loss: 0.6013770500818888	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 6	Validation Loss: 0.5122293929258982	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 7	Training Loss: 0.46757211287816364	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 7	Validation Loss: 0.33150144666433334	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 8	Training Loss: 0.27037346363067627	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 8	Validation Loss: 0.15119244422142705	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 9	Training Loss: 0.10268676280975342	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 9	Validation Loss: 0.023099160394243274	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 10	Training Loss: 0.011437923647463322	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 10	Validation Loss: 0.0006296143965300871	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 11	Training Loss: 0.00030862638474597287	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 11	Validation Loss: 6.123635253392952e-06	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 12	Training Loss: 2.6920417800132177e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 12	Validation Loss: 6.146728518767001e-08	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 13	Training Loss: 1.7384686875251038e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 13	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 14	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 14	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 15	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 15	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 16	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 16	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 17	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 17	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 18	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 18	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 19	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 19	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 20	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 20	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 21	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 21	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 22	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 22	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 23	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 23	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 24	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 24	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 25	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 25	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 26	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 26	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 27	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 27	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 28	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 28	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 29	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 29	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 30	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 30	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 31	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 31	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 32	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 32	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 33	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 33	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 34	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 34	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 35	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 35	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 36	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 36	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 37	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 37	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 38	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 38	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 39	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 39	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 40	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 40	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 41	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 41	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 42	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 42	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 43	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 43	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 44	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 44	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 45	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 45	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 46	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 46	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 47	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 47	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 48	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 48	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 49	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 49	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 50	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 50	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 51	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 51	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 52	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 52	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 53	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 53	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 54	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 54	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 55	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 55	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 56	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 56	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 57	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 57	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 58	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 58	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 59	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 59	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 60	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 60	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 61	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 61	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 62	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 62	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 63	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 63	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 64	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 64	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 65	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 65	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 66	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 66	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 67	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 67	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 68	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 68	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 69	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 69	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 70	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 70	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 71	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 71	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 72	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 72	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 73	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 73	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 74	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 74	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 75	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 75	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 76	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 76	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 77	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 77	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 78	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 78	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 79	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 79	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 80	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 80	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 81	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 81	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 82	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 82	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 83	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 83	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 84	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 84	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 85	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 85	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 86	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 86	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 87	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 87	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 88	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 88	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 89	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 89	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 90	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 90	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 91	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 91	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 92	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 92	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 93	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 93	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 94	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 94	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 95	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 95	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 96	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 96	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 97	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 97	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 98	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 98	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 99	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 99	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 100	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 100	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 1	Training Loss: 0.6932631731033325	Training Accuracy: tensor([50.])
+DEBUG:root:
+Epoch: 1	Validation Loss: 0.692956546942393	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 2	Training Loss: 0.6938250660896301	Training Accuracy: tensor([49.6228])
+DEBUG:root:
+Epoch: 2	Validation Loss: 0.6928494771321615	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 3	Training Loss: 0.6932075421015421	Training Accuracy: tensor([50.0539])
+DEBUG:root:
+Epoch: 3	Validation Loss: 0.6929245591163635	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 4	Training Loss: 0.693179190158844	Training Accuracy: tensor([50.0539])
+DEBUG:root:
+Epoch: 4	Validation Loss: 0.6929969588915507	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 5	Training Loss: 0.6932052572568258	Training Accuracy: tensor([50.1616])
+DEBUG:root:
+Epoch: 5	Validation Loss: 0.6930799086888632	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 6	Training Loss: 0.6931530237197876	Training Accuracy: tensor([50.0539])
+DEBUG:root:
+Epoch: 6	Validation Loss: 0.6931155522664388	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 7	Training Loss: 0.6931629379590353	Training Accuracy: tensor([49.9461])
+DEBUG:root:
+Epoch: 7	Validation Loss: 0.6931169231732687	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 8	Training Loss: 0.6931751370429993	Training Accuracy: tensor([50.])
+DEBUG:root:
+Epoch: 8	Validation Loss: 0.6931216716766357	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 9	Training Loss: 0.6931652228037516	Training Accuracy: tensor([47.9167])
+DEBUG:root:
+Epoch: 9	Validation Loss: 0.6931643684705099	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 10	Training Loss: 0.6932626366615295	Training Accuracy: tensor([45.5101])
+DEBUG:root:
+Epoch: 10	Validation Loss: 0.6931201219558716	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 11	Training Loss: 0.693179190158844	Training Accuracy: tensor([49.9461])
+DEBUG:root:
+Epoch: 11	Validation Loss: 0.6931266585985819	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 12	Training Loss: 0.6931556661923727	Training Accuracy: tensor([49.8384])
+DEBUG:root:
+Epoch: 12	Validation Loss: 0.6931517124176025	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 13	Training Loss: 0.6932678620020548	Training Accuracy: tensor([49.7845])
+DEBUG:root:
+Epoch: 13	Validation Loss: 0.6932387351989746	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 1	Training Loss: 0.6945123871167501	Training Accuracy: tensor([49.7845])
+DEBUG:root:
+Epoch: 1	Validation Loss: 0.6927223006884257	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 2	Training Loss: 0.6939854621887207	Training Accuracy: tensor([50.1616])
+DEBUG:root:
+Epoch: 2	Validation Loss: 0.6926636894543966	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 3	Training Loss: 0.6934287150700887	Training Accuracy: tensor([49.9461])
+DEBUG:root:
+Epoch: 3	Validation Loss: 0.6927395264307658	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 4	Training Loss: 0.6934150457382202	Training Accuracy: tensor([49.7306])
+DEBUG:root:
+Epoch: 4	Validation Loss: 0.692858099937439	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 5	Training Loss: 0.6931791504224142	Training Accuracy: tensor([49.9461])
+DEBUG:root:
+Epoch: 5	Validation Loss: 0.6930021444956461	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 6	Training Loss: 0.6931111017862955	Training Accuracy: tensor([49.8922])
+DEBUG:root:
+Epoch: 6	Validation Loss: 0.6931114196777344	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 7	Training Loss: 0.6932236552238464	Training Accuracy: tensor([48.8506])
+DEBUG:root:
+Epoch: 7	Validation Loss: 0.6932896176973978	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 8	Training Loss: 0.6934288541475931	Training Accuracy: tensor([49.8384])
+DEBUG:root:
+Epoch: 8	Validation Loss: 0.6934624711672465	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 9	Training Loss: 0.693217933177948	Training Accuracy: tensor([50.0539])
+DEBUG:root:
+Epoch: 9	Validation Loss: 0.6934777100880941	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 10	Training Loss: 0.6931913693745931	Training Accuracy: tensor([50.])
+DEBUG:root:
+Epoch: 10	Validation Loss: 0.6934297482172648	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 11	Training Loss: 0.6932017803192139	Training Accuracy: tensor([50.1078])
+DEBUG:root:
+Epoch: 11	Validation Loss: 0.6933418909708658	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 12	Training Loss: 0.6931986610094706	Training Accuracy: tensor([50.0539])
+DEBUG:root:
+Epoch: 12	Validation Loss: 0.6932717363039652	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 13	Training Loss: 0.6931535402933756	Training Accuracy: tensor([50.])
+DEBUG:root:
+Epoch: 13	Validation Loss: 0.6932497223218282	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 1	Training Loss: 0.6942557096481323	Training Accuracy: tensor([50.0539])
+DEBUG:root:
+Epoch: 1	Validation Loss: 0.6926594376564026	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 2	Training Loss: 0.693556547164917	Training Accuracy: tensor([50.1078])
+DEBUG:root:
+Epoch: 2	Validation Loss: 0.6927903493245443	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 3	Training Loss: 0.6931595603624979	Training Accuracy: tensor([49.8922])
+DEBUG:root:
+Epoch: 3	Validation Loss: 0.6929976344108582	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 4	Training Loss: 0.6932197610537211	Training Accuracy: tensor([49.8384])
+DEBUG:root:
+Epoch: 4	Validation Loss: 0.6930666565895081	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 5	Training Loss: 0.6931501030921936	Training Accuracy: tensor([49.7306])
+DEBUG:root:
+Epoch: 5	Validation Loss: 0.693163534005483	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 6	Training Loss: 0.6931556065877279	Training Accuracy: tensor([49.9461])
+DEBUG:root:
+Epoch: 6	Validation Loss: 0.6933309634526571	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 7	Training Loss: 0.6934698820114136	Training Accuracy: tensor([49.7845])
+DEBUG:root:
+Epoch: 7	Validation Loss: 0.693562904993693	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 8	Training Loss: 0.6932515700658163	Training Accuracy: tensor([50.1616])
+DEBUG:root:
+Epoch: 8	Validation Loss: 0.6934587955474854	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 9	Training Loss: 0.6932145953178406	Training Accuracy: tensor([50.1616])
+DEBUG:root:
+Epoch: 9	Validation Loss: 0.6933796207110087	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 10	Training Loss: 0.6932965517044067	Training Accuracy: tensor([49.7845])
+DEBUG:root:
+Epoch: 10	Validation Loss: 0.6934468348821005	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 11	Training Loss: 0.6932010451952616	Training Accuracy: tensor([50.])
+DEBUG:root:
+Epoch: 11	Validation Loss: 0.6934040586153666	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 1	Training Loss: 0.6920299927393595	Training Accuracy: tensor([52.0833])
+DEBUG:root:
+Epoch: 1	Validation Loss: 0.6936259269714355	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 2	Training Loss: 0.6858161489168803	Training Accuracy: tensor([45.1509])
+DEBUG:root:
+Epoch: 2	Validation Loss: 0.6026295224825541	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 3	Training Loss: 0.5426949063936869	Training Accuracy: tensor([92.1875])
+DEBUG:root:
+Epoch: 3	Validation Loss: 0.5663533210754395	Validation Accuracy: 71.50537371635437
+DEBUG:root:
+Epoch: 4	Training Loss: 0.35225610931714374	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 4	Validation Loss: 0.46552780270576477	Validation Accuracy: 73.65591526031494
+DEBUG:root:
+Epoch: 5	Training Loss: 0.1840173527598381	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 5	Validation Loss: 0.5194188629587492	Validation Accuracy: 73.11828136444092
+DEBUG:root:
+Epoch: 6	Training Loss: 0.031136197193215292	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 6	Validation Loss: 0.8329168069176376	Validation Accuracy: 76.88171863555908
+DEBUG:root:
+Epoch: 7	Training Loss: 0.0006180330480371291	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 7	Validation Loss: 4.712301044188886e-06	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 8	Training Loss: 3.7266304483788795e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 8	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 9	Training Loss: 0.1920426314075764	Training Accuracy: tensor([98.2759])
+DEBUG:root:
+Epoch: 9	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 10	Training Loss: 0.0	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 10	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 11	Training Loss: 2.911720931031425e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 11	Validation Loss: 1.3473091557229347e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 12	Training Loss: 1.275376604326084e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 12	Validation Loss: 3.6106116380531907	Validation Accuracy: 88.70967626571655
+DEBUG:root:
+Epoch: 13	Training Loss: 1.0678149218771674e-05	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 13	Validation Loss: 4.3829715703226	Validation Accuracy: 87.09677457809448
+DEBUG:root:
+Epoch: 14	Training Loss: 0.08603187419199305	Training Accuracy: tensor([99.4792])
+DEBUG:root:
+Epoch: 14	Validation Loss: 3.4249728744228682	Validation Accuracy: 88.70967626571655
+DEBUG:root:
+Epoch: 15	Training Loss: 7.580745015426752e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 15	Validation Loss: 2.73055612295866	Validation Accuracy: 90.86021780967712
+DEBUG:root:
+Epoch: 16	Training Loss: 1.1322939599267556e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 16	Validation Loss: 1.7146865610266104	Validation Accuracy: 93.54838728904724
+DEBUG:root:
+Epoch: 17	Training Loss: 1.5615360856221134e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 17	Validation Loss: 0.20402308056054608	Validation Accuracy: 98.38709831237793
+DEBUG:root:
+Epoch: 18	Training Loss: 1.976261917964924e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 18	Validation Loss: 6.146725013422838e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 19	Training Loss: 2.1198562762947404e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 19	Validation Loss: 6.17777080454592e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 20	Training Loss: 2.5402336329231425e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 20	Validation Loss: 6.345408678498643e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 21	Training Loss: 2.739835205526712e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 21	Validation Loss: 6.357826123348786e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 22	Training Loss: 2.667620492502465e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 22	Validation Loss: 6.202606073202332e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 23	Training Loss: 2.557832279611224e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 23	Validation Loss: 5.985297851414847e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 24	Training Loss: 2.665372676347033e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 24	Validation Loss: 5.581724925226202e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 25	Training Loss: 2.6668073284478546e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 25	Validation Loss: 5.153317298815333e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 26	Training Loss: 2.167813818232389e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 26	Validation Loss: 4.755953189790792e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 27	Training Loss: 2.0232562671177825e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 27	Validation Loss: 4.3461714464380446e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 28	Training Loss: 2.081083228707333e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 28	Validation Loss: 3.9860600509200594e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 29	Training Loss: 1.8287711706458747e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 29	Validation Loss: 3.650783924058487e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 30	Training Loss: 1.7510113063205306e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 30	Validation Loss: 3.371387435890938e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 31	Training Loss: 1.515012968411611e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 31	Validation Loss: 3.073364212013985e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 32	Training Loss: 1.4879085104742746e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 32	Validation Loss: 2.918143782911405e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 33	Training Loss: 1.2814980057858822e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 33	Validation Loss: 2.7380880851524125e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 34	Training Loss: 1.2906184565508738e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 34	Validation Loss: 2.4524824956036656e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 35	Training Loss: 1.1855613593070302e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 35	Validation Loss: 2.3407239287583556e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 36	Training Loss: 1.1054676936813241e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 36	Validation Loss: 2.2724269399532204e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 37	Training Loss: 1.0247533926606895e-06	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 37	Validation Loss: 1.9868213504044738e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 38	Training Loss: 9.15114526378602e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 38	Validation Loss: 1.738468663840346e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 39	Training Loss: 8.38168148220575e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 39	Validation Loss: 1.732259846676243e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 40	Training Loss: 7.577748040906348e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 40	Validation Loss: 1.3348955481736388e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 41	Training Loss: 6.819631153121009e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 41	Validation Loss: 1.1548399214689198e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 42	Training Loss: 5.830289827220744e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 42	Validation Loss: 1.1548399214689198e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 43	Training Loss: 5.650662349883836e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 43	Validation Loss: 1.1548399214689198e-07	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 44	Training Loss: 4.634558952905839e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 44	Validation Loss: 6.208816690408032e-08	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 45	Training Loss: 4.3485250481959764e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 45	Validation Loss: 5.774199607344599e-08	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 46	Training Loss: 4.725549539822775e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 46	Validation Loss: 5.774199607344599e-08	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 47	Training Loss: 4.128433109447845e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 47	Validation Loss: 5.774199607344599e-08	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 48	Training Loss: 4.048361101164725e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 48	Validation Loss: 5.774199607344599e-08	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 49	Training Loss: 3.559577805845038e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 49	Validation Loss: 5.774199607344599e-08	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 50	Training Loss: 3.3673185839688813e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 50	Validation Loss: 5.774199607344599e-08	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 51	Training Loss: 3.03418370132628e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 51	Validation Loss: 5.774199607344599e-08	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 52	Training Loss: 2.8928798201377504e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 52	Validation Loss: 5.774199607344599e-08	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 53	Training Loss: 3.390227144943007e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 53	Validation Loss: 5.774199607344599e-08	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 54	Training Loss: 2.9142894201565167e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 54	Validation Loss: 5.774199607344599e-08	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 55	Training Loss: 2.732092809765163e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 55	Validation Loss: 5.774199607344599e-08	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 56	Training Loss: 2.515212666291215e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 56	Validation Loss: 5.774199607344599e-08	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 57	Training Loss: 2.58907609425781e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 57	Validation Loss: 3.22858468848608e-08	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 58	Training Loss: 2.4068795312359725e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 58	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 59	Training Loss: 2.0461259945629232e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 59	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 60	Training Loss: 2.3760494608874674e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 60	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 61	Training Loss: 2.3165303749313657e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 61	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 62	Training Loss: 2.0390607839241662e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 62	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 63	Training Loss: 1.8204676640228476e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 63	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 64	Training Loss: 2.0101577528445583e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 64	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 65	Training Loss: 1.9602730579511748e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 65	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 66	Training Loss: 1.696291415479815e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 66	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 67	Training Loss: 1.6401979034223282e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 67	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 68	Training Loss: 1.7733663071339834e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 68	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 69	Training Loss: 1.6136498951861236e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 69	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 70	Training Loss: 1.4654947714613323e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 70	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 71	Training Loss: 1.4607846310354944e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 71	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 72	Training Loss: 1.3757880878983997e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 72	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 73	Training Loss: 1.4854058368503806e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 73	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 74	Training Loss: 1.5847468641065157e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 74	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 75	Training Loss: 1.1672575084276104e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 75	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 76	Training Loss: 1.2141447314206744e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 76	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 77	Training Loss: 1.1616909745271187e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 77	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 78	Training Loss: 1.3959131687594586e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 78	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 79	Training Loss: 1.3008540378223188e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 79	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 80	Training Loss: 1.0859006257154154e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 80	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 81	Training Loss: 1.1066680372096016e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 81	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 82	Training Loss: 1.1899517933973887e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 82	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 83	Training Loss: 9.919119984639717e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 83	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 84	Training Loss: 1.0987464330961909e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 84	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 85	Training Loss: 9.452388146276765e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 85	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 86	Training Loss: 9.92982454780152e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 86	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 87	Training Loss: 1.0584961766350413e-07	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 87	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 88	Training Loss: 8.658087817063158e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 88	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 89	Training Loss: 8.60242247805824e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 89	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 90	Training Loss: 9.079859116430573e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 90	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 91	Training Loss: 7.182958583484833e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 91	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 92	Training Loss: 8.035064998542414e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 92	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 93	Training Loss: 7.360659045237601e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 93	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 94	Training Loss: 6.949592664303357e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 94	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 95	Training Loss: 8.109999072303253e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 95	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 96	Training Loss: 6.176702053532306e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 96	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 97	Training Loss: 6.983847929594351e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 97	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 98	Training Loss: 5.966886836480019e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 98	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 99	Training Loss: 5.545115418688814e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 99	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 100	Training Loss: 5.363133107986565e-08	Training Accuracy: tensor([100.])
+DEBUG:root:
+Epoch: 100	Validation Loss: 0.0	Validation Accuracy: 100.0
+DEBUG:root:
+Epoch: 1	Training Loss: 0.6941306591033936	Training Accuracy: tensor([45.4562])
+DEBUG:root:
+Epoch: 1	Validation Loss: 0.6936299006144205	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 2	Training Loss: 0.6932934125264486	Training Accuracy: tensor([49.7845])
+DEBUG:root:
+Epoch: 2	Validation Loss: 0.6935741305351257	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 3	Training Loss: 0.6932027737299601	Training Accuracy: tensor([49.8922])
+DEBUG:root:
+Epoch: 3	Validation Loss: 0.6934548815091451	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 4	Training Loss: 0.693256696065267	Training Accuracy: tensor([50.1078])
+DEBUG:root:
+Epoch: 4	Validation Loss: 0.6932874123255411	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 5	Training Loss: 0.6931835611661276	Training Accuracy: tensor([49.8922])
+DEBUG:root:
+Epoch: 5	Validation Loss: 0.6932147145271301	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 6	Training Loss: 0.6931843360265096	Training Accuracy: tensor([50.1616])
+DEBUG:root:
+Epoch: 6	Validation Loss: 0.6931561231613159	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 7	Training Loss: 0.6931451360384623	Training Accuracy: tensor([49.9461])
+DEBUG:root:
+Epoch: 7	Validation Loss: 0.6931378642717997	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 8	Training Loss: 0.6932779351870219	Training Accuracy: tensor([43.4267])
+DEBUG:root:
+Epoch: 8	Validation Loss: 0.6931795676549276	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 9	Training Loss: 0.6931474804878235	Training Accuracy: tensor([50.])
+DEBUG:root:
+Epoch: 9	Validation Loss: 0.6931324203809103	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 10	Training Loss: 0.6932177742322286	Training Accuracy: tensor([49.8384])
+DEBUG:root:
+Epoch: 10	Validation Loss: 0.693070650100708	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 11	Training Loss: 0.6931773622830709	Training Accuracy: tensor([50.1616])
+DEBUG:root:
+Epoch: 11	Validation Loss: 0.6930947303771973	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 12	Training Loss: 0.6932434439659119	Training Accuracy: tensor([49.7306])
+DEBUG:root:
+Epoch: 12	Validation Loss: 0.6930472056070963	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 13	Training Loss: 0.6932194431622823	Training Accuracy: tensor([50.2155])
+DEBUG:root:
+Epoch: 13	Validation Loss: 0.6930965979894003	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 14	Training Loss: 0.6931773821512858	Training Accuracy: tensor([49.8384])
+DEBUG:root:
+Epoch: 14	Validation Loss: 0.6930776437123617	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 15	Training Loss: 0.693220059076945	Training Accuracy: tensor([50.1616])
+DEBUG:root:
+Epoch: 15	Validation Loss: 0.6931231816609701	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 16	Training Loss: 0.6931511163711548	Training Accuracy: tensor([50.0539])
+DEBUG:root:
+Epoch: 16	Validation Loss: 0.6931150356928507	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 17	Training Loss: 0.6931981245676676	Training Accuracy: tensor([49.7845])
+DEBUG:root:
+Epoch: 17	Validation Loss: 0.6931005517641703	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 18	Training Loss: 0.6931497057278951	Training Accuracy: tensor([50.0539])
+DEBUG:root:
+Epoch: 18	Validation Loss: 0.6931121945381165	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 19	Training Loss: 0.6931494871775309	Training Accuracy: tensor([50.])
+DEBUG:root:
+Epoch: 19	Validation Loss: 0.6931117177009583	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 20	Training Loss: 0.6931888063748678	Training Accuracy: tensor([49.8922])
+DEBUG:root:
+Epoch: 20	Validation Loss: 0.6930897037188212	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 21	Training Loss: 0.6932651599248251	Training Accuracy: tensor([50.0539])
+DEBUG:root:
+Epoch: 21	Validation Loss: 0.6931456128756205	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 22	Training Loss: 0.6932352185249329	Training Accuracy: tensor([49.8384])
+DEBUG:root:
+Epoch: 22	Validation Loss: 0.6931063135464987	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 23	Training Loss: 0.6931993166605631	Training Accuracy: tensor([45.6178])
+DEBUG:root:
+Epoch: 23	Validation Loss: 0.6931532224019369	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 24	Training Loss: 0.6931843757629395	Training Accuracy: tensor([49.7845])
+DEBUG:root:
+Epoch: 24	Validation Loss: 0.6931766867637634	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 25	Training Loss: 0.6931587060292562	Training Accuracy: tensor([49.8922])
+DEBUG:root:
+Epoch: 25	Validation Loss: 0.6931809385617574	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 26	Training Loss: 0.6931529839833578	Training Accuracy: tensor([49.8922])
+DEBUG:root:
+Epoch: 26	Validation Loss: 0.6931692163149515	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 27	Training Loss: 0.6931809584299723	Training Accuracy: tensor([49.8384])
+DEBUG:root:
+Epoch: 27	Validation Loss: 0.6931800643603007	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 28	Training Loss: 0.6933965682983398	Training Accuracy: tensor([49.4612])
+DEBUG:root:
+Epoch: 28	Validation Loss: 0.6932305296262106	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 29	Training Loss: 0.6931408842404684	Training Accuracy: tensor([49.8922])
+DEBUG:root:
+Epoch: 29	Validation Loss: 0.6931795477867126	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 30	Training Loss: 0.6931505004564921	Training Accuracy: tensor([49.8384])
+DEBUG:root:
+Epoch: 30	Validation Loss: 0.6931568185488383	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 31	Training Loss: 0.6931942502657572	Training Accuracy: tensor([48.7967])
+DEBUG:root:
+Epoch: 31	Validation Loss: 0.6930891871452332	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 32	Training Loss: 0.6932123104731241	Training Accuracy: tensor([49.8384])
+DEBUG:root:
+Epoch: 32	Validation Loss: 0.6930417617162069	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 33	Training Loss: 0.6932359536488851	Training Accuracy: tensor([49.7845])
+DEBUG:root:
+Epoch: 33	Validation Loss: 0.6930100520451864	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 34	Training Loss: 0.693182905515035	Training Accuracy: tensor([49.8384])
+DEBUG:root:
+Epoch: 34	Validation Loss: 0.6930136680603027	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 35	Training Loss: 0.693179170290629	Training Accuracy: tensor([50.1078])
+DEBUG:root:
+Epoch: 35	Validation Loss: 0.6930332581202189	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 36	Training Loss: 0.6932801206906637	Training Accuracy: tensor([50.2694])
+DEBUG:root:
+Epoch: 36	Validation Loss: 0.6931012670199076	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 37	Training Loss: 0.6931585868199667	Training Accuracy: tensor([49.9461])
+DEBUG:root:
+Epoch: 37	Validation Loss: 0.6931072076161703	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 38	Training Loss: 0.6931768854459127	Training Accuracy: tensor([50.])
+DEBUG:root:
+Epoch: 38	Validation Loss: 0.6931267976760864	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 39	Training Loss: 0.6931503812472025	Training Accuracy: tensor([49.9461])
+DEBUG:root:
+Epoch: 39	Validation Loss: 0.693121333916982	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 40	Training Loss: 0.6931541959444681	Training Accuracy: tensor([50.1078])
+DEBUG:root:
+Epoch: 40	Validation Loss: 0.6931321819623312	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 41	Training Loss: 0.6932027339935303	Training Accuracy: tensor([49.8922])
+DEBUG:root:
+Epoch: 41	Validation Loss: 0.6931013862291971	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 42	Training Loss: 0.6932051579157511	Training Accuracy: tensor([50.1078])
+DEBUG:root:
+Epoch: 42	Validation Loss: 0.693140963713328	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 43	Training Loss: 0.6932338277498881	Training Accuracy: tensor([44.5223])
+DEBUG:root:
+Epoch: 43	Validation Loss: 0.6931798855463663	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 44	Training Loss: 0.6931504011154175	Training Accuracy: tensor([50.0539])
+DEBUG:root:
+Epoch: 44	Validation Loss: 0.6931575338045756	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 45	Training Loss: 0.6932055552800497	Training Accuracy: tensor([49.6767])
+DEBUG:root:
+Epoch: 45	Validation Loss: 0.693171223004659	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 46	Training Loss: 0.6931540966033936	Training Accuracy: tensor([49.8922])
+DEBUG:root:
+Epoch: 46	Validation Loss: 0.6931466857592264	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 47	Training Loss: 0.693160355091095	Training Accuracy: tensor([50.])
+DEBUG:root:
+Epoch: 47	Validation Loss: 0.6931144197781881	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 48	Training Loss: 0.6931626001993815	Training Accuracy: tensor([49.9461])
+DEBUG:root:
+Epoch: 48	Validation Loss: 0.6931085785230001	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 49	Training Loss: 0.6931766072909037	Training Accuracy: tensor([49.8384])
+DEBUG:root:
+Epoch: 49	Validation Loss: 0.6930839419364929	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 50	Training Loss: 0.6932506362597147	Training Accuracy: tensor([50.2694])
+DEBUG:root:
+Epoch: 50	Validation Loss: 0.6931313673655192	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 51	Training Loss: 0.6931712826093038	Training Accuracy: tensor([49.8922])
+DEBUG:root:
+Epoch: 51	Validation Loss: 0.6931005915006002	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 52	Training Loss: 0.693192183971405	Training Accuracy: tensor([49.7845])
+DEBUG:root:
+Epoch: 52	Validation Loss: 0.6930912733078003	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 53	Training Loss: 0.6931718389193217	Training Accuracy: tensor([50.1078])
+DEBUG:root:
+Epoch: 53	Validation Loss: 0.6931187311808268	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 54	Training Loss: 0.693249523639679	Training Accuracy: tensor([49.6767])
+DEBUG:root:
+Epoch: 54	Validation Loss: 0.6930797696113586	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 55	Training Loss: 0.6931574741999308	Training Accuracy: tensor([50.1078])
+DEBUG:root:
+Epoch: 55	Validation Loss: 0.6931077241897583	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 56	Training Loss: 0.693219522635142	Training Accuracy: tensor([50.])
+DEBUG:root:
+Epoch: 56	Validation Loss: 0.693093458811442	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 57	Training Loss: 0.6931568384170532	Training Accuracy: tensor([50.1078])
+DEBUG:root:
+Epoch: 57	Validation Loss: 0.6931193272272745	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 58	Training Loss: 0.6933496395746866	Training Accuracy: tensor([41.2895])
+DEBUG:root:
+Epoch: 58	Validation Loss: 0.6931874553362528	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 59	Training Loss: 0.6931592027346293	Training Accuracy: tensor([50.1078])
+DEBUG:root:
+Epoch: 59	Validation Loss: 0.6931674083073934	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 60	Training Loss: 0.6931502223014832	Training Accuracy: tensor([50.0539])
+DEBUG:root:
+Epoch: 60	Validation Loss: 0.6931547125180563	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 61	Training Loss: 0.6932786107063293	Training Accuracy: tensor([42.4389])
+DEBUG:root:
+Epoch: 61	Validation Loss: 0.6931026776631674	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 62	Training Loss: 0.6931817730267843	Training Accuracy: tensor([50.0539])
+DEBUG:root:
+Epoch: 62	Validation Loss: 0.6931350628534952	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 63	Training Loss: 0.6932259003321329	Training Accuracy: tensor([49.7845])
+DEBUG:root:
+Epoch: 63	Validation Loss: 0.6931039889653524	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 64	Training Loss: 0.6931588451067606	Training Accuracy: tensor([50.])
+DEBUG:root:
+Epoch: 64	Validation Loss: 0.6931309898694357	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 65	Training Loss: 0.6931611696879069	Training Accuracy: tensor([49.8922])
+DEBUG:root:
+Epoch: 65	Validation Loss: 0.6931443413098654	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 66	Training Loss: 0.6931984225908915	Training Accuracy: tensor([49.7845])
+DEBUG:root:
+Epoch: 66	Validation Loss: 0.6931241552035013	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 67	Training Loss: 0.6931576132774353	Training Accuracy: tensor([50.1078])
+DEBUG:root:
+Epoch: 67	Validation Loss: 0.6931516925493876	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 68	Training Loss: 0.6932291785875956	Training Accuracy: tensor([49.7845])
+DEBUG:root:
+Epoch: 68	Validation Loss: 0.6931993365287781	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 69	Training Loss: 0.6931897600491842	Training Accuracy: tensor([50.0539])
+DEBUG:root:
+Epoch: 69	Validation Loss: 0.6931705474853516	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 70	Training Loss: 0.6931822299957275	Training Accuracy: tensor([45.6178])
+DEBUG:root:
+Epoch: 70	Validation Loss: 0.6931473016738892	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 71	Training Loss: 0.693152924378713	Training Accuracy: tensor([49.8922])
+DEBUG:root:
+Epoch: 71	Validation Loss: 0.6931465864181519	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 72	Training Loss: 0.6931613485018412	Training Accuracy: tensor([47.8628])
+DEBUG:root:
+Epoch: 72	Validation Loss: 0.6931740244229635	Validation Accuracy: 50.0
+DEBUG:root:
+Epoch: 73	Training Loss: 0.6932467818260193	Training Accuracy: tensor([42.4389])
+DEBUG:root:
+Epoch: 73	Validation Loss: 0.6931371291478475	Validation Accuracy: 50.0

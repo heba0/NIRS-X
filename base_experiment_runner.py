@@ -1,15 +1,16 @@
 """The entrance of training, """
 import os
+import pathlib
 from argparse import Namespace
 from copy import deepcopy
+
 import pandas as pd
 import torch
 import yaml
-from data.dataset import fNIRS2MW, naive_split
-from utils import draw_graph, generate_filepath
-import pathlib
 from base_trainer import BaseTrainer
+from data.dataset import fNIRS2MW, naive_split
 from torch.utils.data import DataLoader
+from utils import draw_graph, generate_filepath
 
 
 class BaseExpRunner:
@@ -146,6 +147,7 @@ class BaseExpRunner:
             try:
                 _data = yaml.safe_load(_file)
                 eligible_subjects_list = _data['fNIRS2MW']['eligible_subject_list'][self.data_mode]
+                print(' eligible_subjects_list ',eligible_subjects_list)
             except yaml.YAMLError as _exc:
                 print(_exc)
         return eligible_subjects_list

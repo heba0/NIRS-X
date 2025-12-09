@@ -1,6 +1,6 @@
 model:
-  - NIRSformer
-#  - contra_NIRSformer
+#  - NIRSformer
+  - contra_NIRSformer
 
 batch_size:
   - 64
@@ -57,8 +57,8 @@ data_mode:
 
 mode:
 #  - "x"
-  - "xy"
-#  - "contrastive"
+#  - "xy"
+  - "contrastive"
 
 contra_model:
 #  - SimCLR

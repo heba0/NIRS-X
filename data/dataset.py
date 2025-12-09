@@ -1,14 +1,15 @@
 import glob
 import os
 import re
-import yaml
 
 import numpy as np
+
 # import data.dataset
 import pandas as pd
 import torch
-from torch.utils.data import Dataset, Subset
+import yaml
 from data_aug import augment
+from torch.utils.data import Dataset, Subset
 
 
 class fNIRS2MW(Dataset):
@@ -41,7 +42,6 @@ class fNIRS2MW(Dataset):
         self.dataset_config = []
         self.window_size = 150
         self.window_stride = 3
-
         self.__load_config_dataset__(config_path)
         self.experiment_type = self.dataset_config['fNIRS2MW']['experiment_type'][0]
         self.__getdir__(dataset_name, self.experiment_type, slide_window_option)
@@ -86,7 +86,6 @@ class fNIRS2MW(Dataset):
         global_path = self.dataset_config[dataset_name]['global_path']
         slide_window_path = self.dataset_config[dataset_name]['slide_window_path']
         slide_window_options = self.dataset_config[dataset_name]['slide_window_options'][slide_window_option]
-
         slide_window_data_path = global_path + experiment_type + slide_window_path
         self.dir = slide_window_data_path + slide_window_options + "/*.csv"
 
@@ -127,7 +126,6 @@ class fNIRS2MW(Dataset):
         _1st_aug_data_list = []
         _2nd_aug_data_list = []
         label_list = []
-
         for filename in glob.glob(self.dir):
             # read the subject id
             subject_id = os.path.basename(filename).strip("sub_.csv")
